@@ -18,4 +18,4 @@ Joel D'costa
 
 Give me a shout if you're using this in your project!
 
-![https://github.com/joeldcosta/personal/blob/main/joeldcsvg.svg)](https://github.com/joeldcosta)
+![https://github.com/joeldcosta/personal/blob/main/joeldcsvg.svg](https://github.com/joeldcosta)
