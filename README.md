@@ -18,4 +18,5 @@ Joel D'costa
 
 Give me a shout if you're using this in your project!
 
-!(https://github.com/joeldcosta/personal/blob/main/joeldcsvg.svg)(https://github.com/joeldcosta)
+# MY GitHub Repo
+<a href="https://github.com/joeldcosta/" target="_blank"><img src="https://github.com/joeldcosta/personal/blob/main/joeldcsvg.svg" alt="Check out my Git Repo" style="height: 174px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
